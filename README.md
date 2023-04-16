@@ -1,4 +1,4 @@
-![logo](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+![logo](https://datavizblog.files.wordpress.com/2018/12/DataScience.png)
 <h1 align="center">Hi 👋, I'm Mithilesh Kumar Jaiswal</h1>
 <h3 align="center">I currently learn data science and I am passionate about staying up-to-date with the latest developments in the data science field, and I am always seeking out new opportunities to expand my knowledge and skillset.</h3>
 <img align="right" alt="Data Science" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/03/hhws.gif">
