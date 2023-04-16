@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithi1322&label=Profile%20views&color=0e75b6&style=flat" alt="mithi1322" /> </p>
 
-- 🔭 I’m recently completed second project [Youtube Scrapping Project](http://youtubescrappingapp-env.eba-cqic5ny8.ap-south-1.elasticbeanstalk.com/)
-
 - 🌱 I’m currently learning **Data Science master**
+
+- 🔭 I’m recently completed second project [Youtube Scrapping Project](http://youtubescrappingapp-env.eba-cqic5ny8.ap-south-1.elasticbeanstalk.com/)
 
 - ✌️ I’m recently completed first python project [Reviews Scrapping from flipkart product](http://reviewscrapflipkart-env.eba-ihpzqx3w.eu-north-1.elasticbeanstalk.com/)
 
